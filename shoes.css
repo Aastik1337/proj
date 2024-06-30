@@ -1,0 +1,46 @@
+.back{
+    color: rgb(0, 113, 133);
+}
+
+.price{
+    color: rgb(0,118,0);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.addtocart{
+    background-color: rgb(238, 228, 21);
+    color: black;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-right: 15px;
+    border-radius: 20px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    
+}
+
+.buy-now{
+    background-color: rgb(234, 170, 30);
+    color: black;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    
+}
+
+.shoes img {
+    height: 325px;
+    text-align: center;
+    
+
+}
+
+.heading{
+    text-align: center;
+}
